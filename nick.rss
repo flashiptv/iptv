@@ -73,4 +73,22 @@ http://www.bigbuckbunny.org/</description>
 		<media:thumbnail url="https://image.tmdb.org/t/p/w780/saS0N6lE8ZyKH46dlqAsPqDWuk0.jpg"/>
 		<media:thumbnail url="https://www.google.es/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjat8SL6d3QAhVMHxoKHb0bB8QQjRwIBw&url=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt2597768%2F&psig=AFQjCNGfencUWR-mrFW3bypDt6P_RzZp3g&ust=1481053501924364"/>
 	</item>
+	<item>
+		<title>Jack Goes Home (2016)</title>
+		<link>https://z4s54e5.playercdn.net/85/1/Dx1D0fP7gs-yRPMup_VBVg/1480995957/161015/304nyT8SsJpu9Hg.mp4</link>
+		<description>După ce tatăl său este ucis într-un accident de mașină, Jack călătorește acasă în Colorado, pentru a o ajuta 
+			pe mama lui care este asistentă medicală. Acolo, el descoperă secrete îngropate de mult timp care se află în istoria 
+			familie sale, părinții, prietenii săi și însăși identitatea lui. 
+		</description>
+		<media:thumbnail url="https://images-na.ssl-images-amazon.com/images/M/MV5BMjEzNTI3MzE4MV5BMl5BanBnXkFtZTgwNjk5OTU4OTE@._V1_UY268_CR1,0,182,268_AL_.jpg"/>
+		<media:thumbnail url="https://i1.wp.com/www.dreadcentral.com/wp-content/uploads/2015/10/jackgoeshome.jpg"/>
+	</item>
+	<item>
+		<title>The Last King – Birkebeinerne (2016)</title>
+		<link>https://openload.co/stream/DLcUWNK65zM~1480940859~37.11.0.0~tPlYcBim?mime=true</link>
+		<description>The Last King film online gratis – În anul 1206 Norvegia este dezlănțuit de războiul civil. Fiul regelui nelegitim, Håkon Håkonsson,
+		care a ucis jumătate din regat, este păzit în secret de doi bărbați. O poveste care a schimbat cursul istoriei țării.</description>
+		<media:thumbnail url="http://cdn.birkie.com/wp-content/uploads/2016/02/Birkebein_A4_main_trykk-700x997.jpg"/>
+		<media:thumbnail url="http://miamifilmfestival.com/wp-content/uploads/2016/04/THE-LAST-KING__Photo-by-Paradox-Film-AS-and-Nordisk-Film-Production.jpg"/>
+	</item>
 </channel>
