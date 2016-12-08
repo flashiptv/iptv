@@ -154,11 +154,11 @@ http://www.bigbuckbunny.org/</description>
 	<item>
 		<title>Zachariah.2015</title>
 		<link>http://cloud.orangebananaspy.com/Movies/Z.for.Zachariah.2015.1080p.BluRay.x264.YIFY.mp4</link>
-		<media:thumbnail url="https://images-na.ssl-images-amazon.com/images/M/MV5BMTUwMTUwODUzNV5BMl5BanBnXkFtZTgwMDIxMDE5NTE@._V1_UY1200_CR90,0,630,1200_AL_.jpg"/>
-		<media:thumbnail url="http://www.mediastinger.com/wp-content/uploads/2015/07/Z-for-Zachariah-2015-after-credits-hq.jpg"/>
-		<description>Historia post-apocalíptica sobre una chica que vive sola y que lleva una granja en la última sección respirable de la Tierra tras una guerra nuclear. Su mundo se verá roto cuando tropieza con dos extraños en el bosque.
-		</description>		
-        </item>
+		<description>Historia post-apocalíptica sobre una chica que vive sola y que lleva una granja en la última sección respirable de la Tierra tras una guerra nuclear. Su mundo se verá roto cuando tropieza con dos extraños en el bosque. 
+		</description>
+		<media:thumbnail url="https://images-na.ssl-images-amazon.com/images/M/MV5BMTUwMTUwODUzNV5BMl5BanBnXkFtZTgwMDIxMDE5NTE@._V1_UY1200_CR90,0,630,1200_AL_.jpg/>
+		<media:thumbnail url=""/>
+	</item>	
 </channel>
 
 
