@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U $ ExtFilter = "PELICULAS"
 
 
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/16/04/05/17/14/454686.jpg",[COLOR blue]LA DECISION 2016[/COLOR]
