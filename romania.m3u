@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1,Favorit
+http://85.120.66.109:40032
 #EXTINF:-1,DIGI Sport 1
 http://iptvserver.noip.me:8000/live/cristian/cristian/465.ts
 #EXTINF:-1,Digi Sport 2
