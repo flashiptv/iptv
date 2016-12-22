@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1,Etno
+http://85.120.66.109:40115
 #EXTINF:-1,Favorit
 http://85.120.66.109:40032
 #EXTINF:-1,DIGI Sport 1
