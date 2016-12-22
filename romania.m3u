@@ -1,66 +1,60 @@
 #EXTM3U
 
-#EXTINF:-1,Etno
-http://80.86.107.224:49999/udp/224.5.0.26:1234
-#EXTINF:-1,RO:AXN_Romania
-http://5.196.81.121:8000/live/yusri/yusri/6033.ts
-#EXTINF:-1,RO:AXN_White
-http://5.196.81.121:8000/live/yusri/yusri/6032.ts
-#EXTINF:-1,RO:Cartoon_Network
-http://5.196.81.121:8000/live/yusri/yusri/6050.ts
-#EXTINF:-1,RO:Cinemax_HD_RO
-http://5.196.81.121:8000/live/yusri/yusri/6031.ts
-#EXTINF:-1,RO:Cinemax_Ro
-http://5.196.81.121:8000/live/yusri/yusri/6030.ts
-#EXTINF:-1,RO:Digi_Animal_World
-http://5.196.81.121:8000/live/yusri/yusri/6049.ts
-#EXTINF:-1,RO:Digi_Sport_1
-http://5.196.81.121:8000/live/yusri/yusri/6020.ts
-#EXTINF:-1,RO:Digi_Sport_2
-http://5.196.81.121:8000/live/yusri/yusri/6021.ts
-#EXTINF:-1,RO:Digi_Sport_3
-http://5.196.81.121:8000/live/yusri/yusri/6022.ts
-#EXTINF:-1,RO:Digi_Sport_4
-http://5.196.81.121:8000/live/yusri/yusri/6023.ts
-#EXTINF:-1,RO:Discovery_channel
-http://5.196.81.121:8000/live/yusri/yusri/6048.ts
-#EXTINF:-1,RO:Discovery_ID
-http://5.196.81.121:8000/live/yusri/yusri/6047.ts
-#EXTINF:-1,RO:Discovery_science
-http://5.196.81.121:8000/live/yusri/yusri/6046.ts
-#EXTINF:-1,RO:Disney_Channel
-http://5.196.81.121:8000/live/yusri/yusri/6045.ts
-#EXTINF:-1,RO:Disney_Junior
-http://5.196.81.121:8000/live/yusri/yusri/6044.ts
-#EXTINF:-1,RO:DOLCE_SPORT2_HD
-http://5.196.81.121:8000/live/yusri/yusri/6029.ts
-#EXTINF:-1,RO:Eurosport_1_HD_RO
-http://5.196.81.121:8000/live/yusri/yusri/6028.ts
-#EXTINF:-1,RO:Eurosport_2
-http://5.196.81.121:8000/live/yusri/yusri/6027.ts
-#EXTINF:-1,RO:Eurosport_2_HD_RO
-http://5.196.81.121:8000/live/yusri/yusri/6026.ts
-#EXTINF:-1,RO:Extreme_Sports
-http://5.196.81.121:8000/live/yusri/yusri/6025.ts
-#EXTINF:-1,RO:Film_Cafe
-http://5.196.81.121:8000/live/yusri/yusri/6034.ts
-#EXTINF:-1,RO:Food_Network_HD_RO
-http://5.196.81.121:8000/live/yusri/yusri/6043.ts
-#EXTINF:-1,RO:HBO_2
-http://5.196.81.121:8000/live/yusri/yusri/6036.ts
-#EXTINF:-1,RO:HBO_Romania
-http://5.196.81.121:8000/live/yusri/yusri/6035.ts
-#EXTINF:-1,RO:JimJam
-http://5.196.81.121:8000/live/yusri/yusri/6042.ts
-#EXTINF:-1,RO:National_Geographic
-http://5.196.81.121:8000/live/yusri/yusri/6041.ts
-#EXTINF:-1,RO:Nat_Geo_Wild
-http://5.196.81.121:8000/live/yusri/yusri/6040.ts
-#EXTINF:-1,RO:Nickelodeon
-http://5.196.81.121:8000/live/yusri/yusri/6039.ts
-#EXTINF:-1,RO:ProCinema
-http://5.196.81.121:8000/live/yusri/yusri/6037.ts
-#EXTINF:-1,RO:Sport_RO_HD
-http://5.196.81.121:8000/live/yusri/yusri/6024.ts
-#EXTINF:-1,RO:Viasat_History
-http://5.196.81.121:8000/live/yusri/yusri/6038.ts
+#EXTINF:-1,RO: B1 Tv
+http://137.74.94.161:8000/live/vytautas/vytautas/9206.ts
+#EXTINF:-1,RO: DIGI 24
+http://137.74.94.161:8000/live/vytautas/vytautas/9207.ts
+#EXTINF:-1,RO: Digi Animal World
+http://137.74.94.161:8000/live/vytautas/vytautas/9208.ts
+#EXTINF:-1,RO: DIGI LIFE
+http://137.74.94.161:8000/live/vytautas/vytautas/9209.ts
+#EXTINF:-1,RO: DIGI SPORT 1
+http://137.74.94.161:8000/live/vytautas/vytautas/9210.ts
+#EXTINF:-1,RO: DIGI SPORT 2
+http://137.74.94.161:8000/live/vytautas/vytautas/9211.ts
+#EXTINF:-1,RO: DIGI SPORT 3
+http://137.74.94.161:8000/live/vytautas/vytautas/9212.ts
+#EXTINF:-1,RO: DIGI SPORT 4
+http://137.74.94.161:8000/live/vytautas/vytautas/9213.ts
+#EXTINF:-1,RO: DIGI WORLD
+http://137.74.94.161:8000/live/vytautas/vytautas/9214.ts
+#EXTINF:-1,RO: Disney Junior
+http://137.74.94.161:8000/live/vytautas/vytautas/9215.ts
+#EXTINF:-1,RO: Eurosport
+http://137.74.94.161:8000/live/vytautas/vytautas/9216.ts
+#EXTINF:-1,RO: Eurosport 2
+http://137.74.94.161:8000/live/vytautas/vytautas/9217.ts
+#EXTINF:-1,RO: HBO 3
+http://137.74.94.161:8000/live/vytautas/vytautas/9218.ts
+#EXTINF:-1,RO: History Channel
+http://137.74.94.161:8000/live/vytautas/vytautas/9219.ts
+#EXTINF:-1,RO: Kanal D
+http://137.74.94.161:8000/live/vytautas/vytautas/9220.ts
+#EXTINF:-1,RO: Megamax
+http://137.74.94.161:8000/live/vytautas/vytautas/9221.ts
+#EXTINF:-1,RO: Minimax
+http://137.74.94.161:8000/live/vytautas/vytautas/9222.ts
+#EXTINF:-1,RO: Nat Geo Wild
+http://137.74.94.161:8000/live/vytautas/vytautas/9223.ts
+#EXTINF:-1,RO: National Geographic
+http://137.74.94.161:8000/live/vytautas/vytautas/9224.ts
+#EXTINF:-1,RO: Nickelodeon
+http://137.74.94.161:8000/live/vytautas/vytautas/9225.ts
+#EXTINF:-1,RO: Prima Tv
+http://137.74.94.161:8000/live/vytautas/vytautas/9226.ts
+#EXTINF:-1,RO: ProTv Chisinau
+http://137.74.94.161:8000/live/vytautas/vytautas/9227.ts
+#EXTINF:-1,RO: Realitatea Tv
+http://137.74.94.161:8000/live/vytautas/vytautas/9228.ts
+#EXTINF:-1,RO: ROMANIA TV
+http://137.74.94.161:8000/live/vytautas/vytautas/9229.ts
+#EXTINF:-1,RO: Travel Channel
+http://137.74.94.161:8000/live/vytautas/vytautas/9230.ts
+#EXTINF:-1,RO: TV1000
+http://137.74.94.161:8000/live/vytautas/vytautas/9231.ts
+#EXTINF:-1,RO: TVR 1
+http://137.74.94.161:8000/live/vytautas/vytautas/9232.ts
+#EXTINF:-1,RO: TVR 2
+http://137.74.94.161:8000/live/vytautas/vytautas/9233.ts
+#EXTINF:-1,RO: VIASAT NATURE
+http://137.74.94.161:8000/live/vytautas/vytautas/9234.ts
