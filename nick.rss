@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channel>
 	<title>Canal personal</title>
-	<title><item>
+	<item>
+		<title>Batman v. superman el amanecer de la justicia (2016)</title>
+		<link>https://arch1.stormocloud.com/remote_control.php?time=1483707629&cv=0de59dcb312f95f0c52e6470d6abf036&lr=0&cv2=49faa805c5d7059703d39b56adbbb3b3&file=%2Fvideos%2F55000%2F55176%2F55176.mp4&cv3=4cda23e64014fc13576ec27dc66fdfe0</link>
+		<description> ....
+		</description>
+		<media:thumbnail url="https://s-media-cache-ak0.pinimg.com/564x/21/d2/4a/21d24a0123b5243f5fb3d308184c665c.jpg"/>
+		<media:thumbnail url="https://i.ytimg.com/vi/hFxOlBenfe4/maxresdefault.jpg"/>
+	</item>
+	<item>
 		<title>We Are Your Friends (2015)</title>
 		<link>https://bigcdn.ia3el9bj6x2jcckb4mr8.com/cdn19/luq5qvzva7ixexzw6wf3h4eqrtg74ggxmhwhuvybqowd55bcp746i3ifo2dq/normal.mp4</link>
 		<description> ....
