@@ -1,28 +1,21 @@
-<?xml version="1.0" encoding="ISO-8859-1" ?>
-<rss version="2.0">
-	
-  <channel>
-   <title>Filme online</title>
-   <link>http://pefilme.com/</link>
-   <description>Filme online subtitrate in limba romana</description>
-	  
-    <item>
-     <title>The Book of Esther (2013)<title>
-     <link>https://adxteq.playercdn.net/85/1/Frc0NCskWdepmG9EekvvuA/1482520129/161223/568y19XJMdsOVth.mp4<link>
-     <description>..<description>
-    <item>
-	    
-    <item>
-     <title>Another Earth (2011)<title>
-     <link>https://vgkz8y.playercdn.net/85/0/qOMO59UNqBU_w5gVJeA11Q/1482520443/161223/560A27Z1sGNQKDK.mp4<link>
-     <description>..<description>
-    <item>
-	    
-    <item>
-     <title>The Hobbit (2014)<title>
-     <link>https://urfgsc.playercdn.net/85/1/Z6y3p3KXDDIlF-8Lh9LUBw/1482520678/161223/556TBgMlhO1AoOM.mp4<link>
-     <description>..<description>
-    <item>
-	    
- </channel>
-</rss>
+<?xml version="1.0" encoding="UTF-8"?>
+<channel>
+	<title>Canal personal</title>
+	<item>
+		<title>Rookie Blue 1x01</title>
+		<link>http://streamcloud.eu/8lpt2hb2ts0o/R0k13_Blu3-1x01.mp4</link>
+		<description> ....
+		</description>
+		<media:thumbnail url="http://hayunalesbianaenmisopa.com/wp-content/uploads/2015/10/ROOKIEBLUE.jpg"/>
+		<media:thumbnail url="http://s03.s3c.es/imag/_v0/640x300/3/8/d/rookie-blue.jpg"/>
+        </item>
+	<title>Rookie Blue</title>
+	<item>
+		<title>Rookie Blue 1x02</title>
+		<link>http://streamcloud.eu/b2a53z7xh0ry/R0k13_Blu3-1x02.mp4</link>
+		<description> ....
+		</description>
+		<media:thumbnail url="http://hayunalesbianaenmisopa.com/wp-content/uploads/2015/10/ROOKIEBLUE.jpg"/>
+		<media:thumbnail url="http://s03.s3c.es/imag/_v0/640x300/3/8/d/rookie-blue.jpg"/>
+        </item>
+</channel>
